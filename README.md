@@ -6,14 +6,10 @@ Developer and Builder
 
 Experienced at using the latest technologies to build quality applications that meet business needs and delight customers. Passionate about new technologies, especially in terms of the web and mobile industry. Eager to learn new things, love to build stuff.
 
-* 🌍  I'm based in Singapore
-* ✉️  You can contact me at [lethanhquang910@gmail.com](mailto:lethanhquang910@gmail.com)
-* 🚀  I'm currently working on [Tiktok](http://tiktok.com)
-* 🧠  I'm learning everything Javascript
-
-### Skills
-
-
+*   🌍  I'm based in Singapore
+*   ✉️  You can contact me at [lethanhquang910@gmail.com](mailto:lethanhquang910@gmail.com)
+*   🚀  I'm currently working on [Tiktok](http://tiktok.com)
+*   🧠  I'm learning everything Javascript### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,14 +25,12 @@ Experienced at using the latest technologies to build quality applications that 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/quangrau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/quangrau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/quangrau"><img src="https://github-readme-stats.vercel.app/api?username=quangrau&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="quangrau's GitHub stats" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/quangrau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/quangrau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
